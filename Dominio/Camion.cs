@@ -55,5 +55,10 @@ namespace CRUDtransporte.Dominio
         {
             Cargas.Add(c);
         }
+
+        public void EliminarCarga(int id)
+        {
+            Cargas.RemoveAt(id);
+        }
     }
 }

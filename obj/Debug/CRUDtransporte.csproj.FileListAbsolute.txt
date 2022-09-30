@@ -1,0 +1,11 @@
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\bin\Debug\CRUDtransporte.exe.config
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\bin\Debug\CRUDtransporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\bin\Debug\CRUDtransporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.FmrAlta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDtransporte\obj\Debug\CRUDtransporte.pdb
